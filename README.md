@@ -1,2 +1,1 @@
-# KotlinPortfolio
-Kotlin Portfolio App
+# Kotlin
